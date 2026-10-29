@@ -1,0 +1,214 @@
+{
+  "readings": [
+    {
+      "sensor_id": "SNS-A01",
+      "location": "Boiler Room",
+      "temperature": 88.5,
+      "status": "DANGER",
+      "operator_id": 101
+    },
+    {
+      "sensor_id": "SNS-A02",
+      "location": "Assembly Line",
+      "temperature": 42.0,
+      "status": "NORMAL",
+      "operator_id": 102
+    },
+    {
+      "sensor_id": "SNS-A03",
+      "location": "Server Room",
+      "temperature": 95.2,
+      "status": "DANGER",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A04",
+      "location": "Chemical Lab",
+      "temperature": 73.1,
+      "status": "WARNING",
+      "operator_id": 104
+    },
+    {
+      "sensor_id": "SNS-A05",
+      "location": "Boiler Room",
+      "temperature": 91.0,
+      "status": "DANGER",
+      "operator_id": 101
+    },
+    {
+      "sensor_id": "SNS-A06",
+      "location": "Warehouse",
+      "temperature": 31.5,
+      "status": "NORMAL",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A07",
+      "location": "Turbine House",
+      "temperature": 87.3,
+      "status": "DANGER",
+      "operator_id": 107
+    },
+    {
+      "sensor_id": "SNS-A08",
+      "location": "Assembly Line",
+      "temperature": 45.8,
+      "status": "NORMAL",
+      "operator_id": 102
+    },
+    {
+      "sensor_id": "SNS-A09",
+      "location": "Server Room",
+      "temperature": 89.9,
+      "status": "DANGER",
+      "operator_id": 109
+    },
+    {
+      "sensor_id": "SNS-A10",
+      "location": "Data Center",
+      "temperature": 24.0,
+      "status": "NORMAL",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A11",
+      "location": "Boiler Room",
+      "temperature": 96.4,
+      "status": "DANGER",
+      "operator_id": 101
+    },
+    {
+      "sensor_id": "SNS-A12",
+      "location": "Chemical Lab",
+      "temperature": 68.0,
+      "status": "WARNING",
+      "operator_id": 104
+    },
+    {
+      "sensor_id": "SNS-A13",
+      "location": "Turbine House",
+      "temperature": 92.1,
+      "status": "DANGER",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A14",
+      "location": "Warehouse",
+      "temperature": 29.8,
+      "status": "NORMAL",
+      "operator_id": 114
+    },
+    {
+      "sensor_id": "SNS-A15",
+      "location": "Server Room",
+      "temperature": 86.0,
+      "status": "DANGER",
+      "operator_id": 109
+    },
+    {
+      "sensor_id": "SNS-A16",
+      "location": "Assembly Line",
+      "temperature": 41.2,
+      "status": "NORMAL",
+      "operator_id": 102
+    },
+    {
+      "sensor_id": "SNS-A17",
+      "location": "Boiler Room",
+      "temperature": 99.5,
+      "status": "DANGER",
+      "operator_id": 101
+    },
+    {
+      "sensor_id": "SNS-A18",
+      "location": "Data Center",
+      "temperature": 22.5,
+      "status": "NORMAL",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A19",
+      "location": "Turbine House",
+      "temperature": 88.0,
+      "status": "DANGER",
+      "operator_id": 107
+    },
+    {
+      "sensor_id": "SNS-A20",
+      "location": "Chemical Lab",
+      "temperature": 75.4,
+      "status": "WARNING",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A21",
+      "location": "Boiler Room",
+      "temperature": 90.2,
+      "status": "DANGER",
+      "operator_id": 101
+    },
+    {
+      "sensor_id": "SNS-A22",
+      "location": "Assembly Line",
+      "temperature": 39.9,
+      "status": "NORMAL",
+      "operator_id": 122
+    },
+    {
+      "sensor_id": "SNS-A23",
+      "location": "Server Room",
+      "temperature": 93.7,
+      "status": "DANGER",
+      "operator_id": 109
+    },
+    {
+      "sensor_id": "SNS-A24",
+      "location": "Warehouse",
+      "temperature": 30.0,
+      "status": "NORMAL",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A25",
+      "location": "Turbine House",
+      "temperature": 87.8,
+      "status": "DANGER",
+      "operator_id": 107
+    },
+    {
+      "sensor_id": "SNS-A26",
+      "location": "Data Center",
+      "temperature": 25.1,
+      "status": "NORMAL",
+      "operator_id": 126
+    },
+    {
+      "sensor_id": "SNS-A27",
+      "location": "Boiler Room",
+      "temperature": 97.0,
+      "status": "DANGER",
+      "operator_id": null
+    },
+    {
+      "sensor_id": "SNS-A28",
+      "location": "Chemical Lab",
+      "temperature": 71.3,
+      "status": "WARNING",
+      "operator_id": 104
+    },
+    {
+      "sensor_id": "SNS-A29",
+      "location": "Server Room",
+      "temperature": 85.5,
+      "status": "DANGER",
+      "operator_id": 109
+    },
+    {
+      "sensor_id": "SNS-A30",
+      "location": "Assembly Line",
+      "temperature": 43.5,
+      "status": "NORMAL",
+      "operator_id": null
+    }
+  ]
+}
