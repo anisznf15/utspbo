@@ -1,0 +1,214 @@
+{
+  "employees": [
+    {
+      "emp_id": "EMP-001",
+      "name": "Budi Pratama",
+      "base_salary": 8500000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-002",
+      "name": "Siti Rahma",
+      "base_salary": 6000000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-003",
+      "name": "Andi Wijaya",
+      "base_salary": 12500000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-004",
+      "name": "Dewi Lestari",
+      "base_salary": 7200000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-005",
+      "name": "Eko Prasetyo",
+      "base_salary": 5500000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-006",
+      "name": "Fajar Nugraha",
+      "base_salary": 9800000.0,
+      "is_permanent": true,
+      "bonus_code": "SENIOR10"
+    },
+    {
+      "emp_id": "EMP-007",
+      "name": "Gita Gutawa",
+      "base_salary": 6800000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-008",
+      "name": "Hendra Kurniawan",
+      "base_salary": 11000000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-009",
+      "name": "Indah Permata",
+      "base_salary": 8000000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-010",
+      "name": "Joko Widodo",
+      "base_salary": 5000000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-011",
+      "name": "Kiki Amalia",
+      "base_salary": 7700000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-012",
+      "name": "Lukman Hakim",
+      "base_salary": 13500000.0,
+      "is_permanent": true,
+      "bonus_code": "LEAD2026"
+    },
+    {
+      "emp_id": "EMP-013",
+      "name": "Maya Putri",
+      "base_salary": 6200000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-014",
+      "name": "Nurdin Hasan",
+      "base_salary": 8900000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-015",
+      "name": "Oki Setiana",
+      "base_salary": 9500000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-016",
+      "name": "Panji Petualang",
+      "base_salary": 5800000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-017",
+      "name": "Qory Sandioriva",
+      "base_salary": 10500000.0,
+      "is_permanent": true,
+      "bonus_code": "SENIOR10"
+    },
+    {
+      "emp_id": "EMP-018",
+      "name": "Rian D'Masiv",
+      "base_salary": 7000000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-019",
+      "name": "Siska Kohl",
+      "base_salary": 14000000.0,
+      "is_permanent": true,
+      "bonus_code": "LEAD2026"
+    },
+    {
+      "emp_id": "EMP-020",
+      "name": "Tora Sudiro",
+      "base_salary": 6400000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-021",
+      "name": "Uus Kartajaya",
+      "base_salary": 8300000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-022",
+      "name": "Vina Panduwinata",
+      "base_salary": 9100000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-023",
+      "name": "Wendra Pratama",
+      "base_salary": 5300000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-024",
+      "name": "Xavier Marks",
+      "base_salary": 11800000.0,
+      "is_permanent": true,
+      "bonus_code": "SENIOR10"
+    },
+    {
+      "emp_id": "EMP-025",
+      "name": "Yuni Shara",
+      "base_salary": 7600000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-026",
+      "name": "Zainal Abidin",
+      "base_salary": 6500000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-027",
+      "name": "Ahmad Dhani",
+      "base_salary": 15000000.0,
+      "is_permanent": true,
+      "bonus_code": "LEAD2026"
+    },
+    {
+      "emp_id": "EMP-028",
+      "name": "Bella Saphira",
+      "base_salary": 8200000.0,
+      "is_permanent": true,
+      "bonus_code": "PERF2026"
+    },
+    {
+      "emp_id": "EMP-029",
+      "name": "Cinta Laura",
+      "base_salary": 10000000.0,
+      "is_permanent": true,
+      "bonus_code": null
+    },
+    {
+      "emp_id": "EMP-030",
+      "name": "Deddy Corbuzier",
+      "base_salary": 6100000.0,
+      "is_permanent": false,
+      "bonus_code": null
+    }
+  ]
+}
